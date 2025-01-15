@@ -35,8 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kaueruiz10/kaueruiz10/output/snake.svg" alt="Snake animation" />
+<a>Busco Novos Desafios e Projetos<a/>
 
 ###
